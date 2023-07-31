@@ -1,0 +1,26 @@
+- RSSとalertの違いが分からなかったので教えてください。
+    - RSSはRSSリーダーと呼ばれるソフトウェアを利用することが想定される一方、My NCBIアカウント不要ですが、Alertを利用するには予めアカウントを用意する必要があります。
+    - My NCBIアカウントについて詳細はこちらをご覧ください。 https://account.ncbi.nlm.nih.gov/
+- ワイルドカードと近接演算は同時に使えますか
+    - 使えません。
+- 近接演算ができるようになったのは初めて知りました。冠詞なども一語と数えるであっていますか
+    - はい、あっています。
+- Advanceで検索する場合、MeSHタームそのものしか範囲に入らないのでしょうか？（通常でやるときは関連するタームも含むとのことでしたが）
+    - 範囲、の意味が分かりかねますが、Advancedで検索する、しないに関わらず様々な検索機能が利用できます。
+- pubmedではjournalを指定して検索することは可能でしょうか？
+    - できます。雑誌名の後に [ta] をくわえます。例えば、J Biol Chem[ta] のように使います。
+- 聞き逃しなら恐縮ですがPubmedの収載基準を教えてください。身元のしっかりしている雑誌が対象との理解であっていますか。日本語も含め非英語の論文も収載されているようです(書誌や抄録は英語)。    
+    - うろ覚えですが、しばらく前、出版社がデータを電子ベースで提出することが必須になった影響があるとかないとか聞いたこともあります。
+    - PubMedは、MEDLINE、PubMed Central（PMC）、そして、Bookshelf に収載されている記事が検索対象になります。
+    - 雑誌ということであれば、MEDLINEおよびPMCに収載されていることが基準になります。
+    - 詳細は、https://pubmed.ncbi.nlm.nih.gov/about/ および、https://www.nlm.nih.gov/bsd/difference.html をご参照ください。
+
+- Pubmedと有償のMedlineデータベースとの違いは何ですか
+    - 現在はPubMedもMEDLINEも無償で全体を取得できます。
+    - かつて、MEDLINEを検索するために、有償の検索サービスを利用していました。
+- PubmedのMeSHと、EmbaseのEMTreeとの違いはどのくらいありますか
+    - MeSHはオープンで全体を取得可能であり、さらに再利用可能という点が最も大きな違いかと思います。
+    - https://www.nlm.nih.gov/databases/download/terms_and_conditions.html
+- PubMedとGoogle Scholarでは検索の網羅性はどちらが高いのでしょうか？
+    - 生命科学、医学生物分野ではPubMedの網羅性が高いのではないかと想定されますが、PubMedでは検索対象に関する情報が詳細に得られるのに対してGoogle Scholarでは不明なので、明確に答えることはできかねます。
+    - https://scholar.google.com/intl/ja/scholar/help.html#coverage
